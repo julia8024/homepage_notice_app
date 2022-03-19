@@ -2,11 +2,11 @@
     <!-- Base application theme. -->
     <style name="Theme.Homepage_notice_app" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/pink_brand_color</item>
-        <item name="colorPrimaryVariant">@color/blue_brand_color</item>
+        <item name="colorPrimary">@color/brand_color_1</item>
+        <item name="colorPrimaryVariant">@color/brand_color_2</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/brown_brand_color</item>
+        <item name="colorSecondary">@color/brand_color_3</item>
         <item name="colorSecondaryVariant">@color/gray</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
