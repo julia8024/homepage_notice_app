@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/angle_icon.xml" value="0.25" />
         <entry key="app/src/main/res/drawable/border_box.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29274720248916597" />
+        <entry key="app/src/main/res/drawable/star_selected.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/star_unselected.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33925751743057225" />
+        <entry key="app/src/main/res/layout/activity_scrapview.xml" value="0.2708333333333333" />
+        <entry key="app/src/main/res/layout/layout_main_list.xml" value="0.2708333333333333" />
+        <entry key="app/src/main/res/layout/layout_scrap_list.xml" value="0.2708333333333333" />
       </map>
     </option>
   </component>

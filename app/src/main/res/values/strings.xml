@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">homepage_notice_app</string>
+
+<!--    main activity-->
+
     <string name="main_title_txt">공주대 공지사항</string>
     <string name="recent_10_list_txt">최신 10개 글</string>
 
@@ -7,4 +10,7 @@
     <string name="kongju_txt">[공주]</string>
     <string name="cheonan_txt">[천안]</string>
     <string name="yesan_txt">[예산]</string>
+
+<!--    scrapview activity -->
+    <string name="scrapview_title_txt">스크랩한 글 모아보기</string>
 </resources>
