@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">homepage_notice_app</string>
+    <string name="main_title_txt">공주대 공지사항</string>
+    <string name="recent_10_list_txt">최신 10개 글</string>
+
+    <string name="common_txt">[공통]</string>
+
 </resources>
