@@ -18,10 +18,9 @@ public class MainActivity extends AppCompatActivity {
              public void onClick(View view) {
                  Toast.makeText(MainActivity.this, "Hello world", Toast.LENGTH_SHORT).show();
                  Toast.makeText(MainActivity.this, "Hello 3333", Toast.LENGTH_SHORT).show();
-                 Toast.makeText(MainActivity.this, "Hello test_없어지진않겠지이이이이이", Toast.LENGTH_SHORT).show();
              }
          });
 
-
+        // ㅎㅇㅎㅇ
     }
 }
