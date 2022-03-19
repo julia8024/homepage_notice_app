@@ -30,12 +30,13 @@ public class ScrapViewAdapter extends RecyclerView.Adapter<ScrapViewAdapter.View
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
-
+        Scrap item = array_items.get(position);
+        holder.setItem(item);
     }
 
     @Override
     public int getItemCount() {
-        return 0;
+        return array_items.size();
     }
 
     // 이 어댑터를 사용하는 소스 코드에서 어댑터에 Scrap 객체를 넣거나 가져갈 수 있도록 addItem(), setItems(), getItem(), setItem() 메소드 추가

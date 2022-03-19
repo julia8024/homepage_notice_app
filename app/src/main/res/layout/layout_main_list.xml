@@ -10,7 +10,7 @@
         android:orientation="horizontal">
 
         <TextView
-            android:id="@+id/notice_num_sv"
+            android:id="@+id/notice_num_main"
             android:layout_width="40dp"
             android:layout_height="wrap_content"
             android:text="100"
@@ -18,7 +18,7 @@
             android:textAlignment="center"/>
 
         <TextView
-            android:id="@+id/notice_title_sv"
+            android:id="@+id/notice_title_main"
             android:layout_width="230dp"
             android:layout_height="wrap_content"
             android:singleLine="true"
@@ -33,7 +33,7 @@
             android:layout_weight="1"/>
 
         <TextView
-            android:id="@+id/notice_date_sv"
+            android:id="@+id/notice_date_main"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="2022.03.17."
@@ -43,6 +43,7 @@
             />
 
         <ImageView
+            android:id="@+id/star"
             android:layout_width="14dp"
             android:layout_height="14dp"
             android:background="@drawable/star_unselected"

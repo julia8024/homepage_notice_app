@@ -77,6 +77,7 @@
                             android:orientation="vertical">
 
                             <LinearLayout
+                                android:id="@+id/common_tab"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
@@ -105,6 +106,7 @@
                                     android:layout_weight="1" />
 
                                 <ImageView
+                                    android:id="@+id/tab_icon_0"
                                     android:layout_width="14dp"
                                     android:layout_height="14dp"
                                     android:layout_gravity="center_vertical"
@@ -116,6 +118,7 @@
                             </LinearLayout>
 
                             <View
+                                android:id="@+id/line_common"
                                 android:layout_width="match_parent"
                                 android:layout_height="1dp"
                                 android:layout_marginLeft="20dp"
@@ -145,6 +148,7 @@
                             android:orientation="vertical">
 
                             <LinearLayout
+                                android:id="@+id/kongju_tab"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
@@ -173,6 +177,7 @@
                                     android:layout_weight="1" />
 
                                 <ImageView
+                                    android:id="@+id/tab_icon_1"
                                     android:layout_width="14dp"
                                     android:layout_height="14dp"
                                     android:layout_gravity="center_vertical"
@@ -183,6 +188,7 @@
                             </LinearLayout>
 
                             <View
+                                android:id="@+id/line_kongju"
                                 android:layout_width="match_parent"
                                 android:layout_height="1dp"
                                 android:layout_marginLeft="20dp"
@@ -212,6 +218,7 @@
                             android:orientation="vertical">
 
                             <LinearLayout
+                                android:id="@+id/cheonan_tab"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
@@ -240,6 +247,7 @@
                                     android:layout_weight="1" />
 
                                 <ImageView
+                                    android:id="@+id/tab_icon_2"
                                     android:layout_width="14dp"
                                     android:layout_height="14dp"
                                     android:layout_gravity="center_vertical"
@@ -250,6 +258,7 @@
                             </LinearLayout>
 
                             <View
+                                android:id="@+id/line_cheonan"
                                 android:layout_width="match_parent"
                                 android:layout_height="1dp"
                                 android:layout_marginLeft="20dp"
@@ -279,6 +288,7 @@
                             android:orientation="vertical">
 
                             <LinearLayout
+                                android:id="@+id/yesan_tab"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
@@ -307,6 +317,7 @@
                                     android:layout_weight="1" />
 
                                 <ImageView
+                                    android:id="@+id/tab_icon_3"
                                     android:layout_width="14dp"
                                     android:layout_height="14dp"
                                     android:layout_gravity="center_vertical"
@@ -318,6 +329,7 @@
                             </LinearLayout>
 
                             <View
+                                android:id="@+id/line_yesan"
                                 android:layout_width="match_parent"
                                 android:layout_height="1dp"
                                 android:layout_marginLeft="20dp"
@@ -347,6 +359,7 @@
                             android:orientation="vertical">
 
                             <LinearLayout
+                                android:id="@+id/else_tab"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
@@ -375,6 +388,7 @@
                                     android:layout_weight="1" />
 
                                 <ImageView
+                                    android:id="@+id/tab_icon_4"
                                     android:layout_width="14dp"
                                     android:layout_height="14dp"
                                     android:layout_gravity="center_vertical"
@@ -386,6 +400,7 @@
                             </LinearLayout>
 
                             <View
+                                android:id="@+id/line_else"
                                 android:layout_width="match_parent"
                                 android:layout_height="1dp"
                                 android:layout_marginLeft="20dp"

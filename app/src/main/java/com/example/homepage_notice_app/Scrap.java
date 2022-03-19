@@ -1,6 +1,6 @@
 package com.example.homepage_notice_app;
 
-// Scrapview 액티비티에서 리사이클러뷰에 쓰 파일
+// Scrapview 액티비티에서 리사이클러뷰에 쓸 파일
 
 public class Scrap {
     int text_num;
