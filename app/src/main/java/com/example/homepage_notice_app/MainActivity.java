@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
              @Override
              public void onClick(View view) {
                  Toast.makeText(MainActivity.this, "Hello world", Toast.LENGTH_SHORT).show();
+                 Toast.makeText(MainActivity.this, "Hello 3333", Toast.LENGTH_SHORT).show();
                  Toast.makeText(MainActivity.this, "Hello", Toast.LENGTH_SHORT).show();
              }
          });
