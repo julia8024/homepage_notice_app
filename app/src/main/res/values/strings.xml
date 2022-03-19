@@ -10,6 +10,7 @@
     <string name="kongju_txt">[공주]</string>
     <string name="cheonan_txt">[천안]</string>
     <string name="yesan_txt">[예산]</string>
+    <string name="else_txt">[그 외]</string>
 
 <!--    scrapview activity -->
     <string name="scrapview_title_txt">스크랩한 글 모아보기</string>
